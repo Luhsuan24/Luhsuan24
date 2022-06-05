@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
-*👋 I'm @Luhsuan24
-*🔭 My major is management information system
-*🌱 I'm currently learning web programming
-*🤔 I’m a beginner at programming
-*😄 Pronouns: she
+# Luhsuan24
+- 👋 I'm @Luhsuan24
+- 🔭 My major is management information system
+- 🌱 I'm currently learning web programming
+- 🤔 I’m a beginner at programming
+- 😄 Pronouns: she
 
